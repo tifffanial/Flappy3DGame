@@ -1,29 +1,29 @@
 Using pre-set license
-Built from '2020.2/release' branch; Version is '2020.2.0f1 (3721df5a8b28) revision 3613151'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 3995 MB
+Built from '2020.2/release' branch; Version is '2020.2.4f1 (becced5a802b) revision 12504301'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19041.804; Version 2004; 64bit' Language: 'en' Physical Memory: 3995 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\Hub\Editor\2020.2.0f1\Editor\Unity.exe
+C:\Program Files\Unity\Hub\Editor\2020.2.4f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-D:/Documents/kul/V/PG/tubes/Flappy3D
+E:/POLINES/Kuliah/Semester 5/Pemrograman Game/projek/Flappy3DGame/tubes/Flappy3D
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-62632
-Successfully changed project path to: D:/Documents/kul/V/PG/tubes/Flappy3D
-D:/Documents/kul/V/PG/tubes/Flappy3D
+57606
+Successfully changed project path to: E:/POLINES/Kuliah/Semester 5/Pemrograman Game/projek/Flappy3DGame/tubes/Flappy3D
+E:/POLINES/Kuliah/Semester 5/Pemrograman Game/projek/Flappy3DGame/tubes/Flappy3D
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 206.44 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 56.62 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Initialize engine version: 2020.2.0f1 (3721df5a8b28)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/Documents/kul/V/PG/tubes/Flappy3D/Assets
+Initialize engine version: 2020.2.4f1 (becced5a802b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/POLINES/Kuliah/Semester 5/Pemrograman Game/projek/Flappy3DGame/tubes/Flappy3D/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -32,11 +32,115 @@ Direct3D:
     VRAM:     1997 MB
     Driver:   27.20.100.8681
 Initialize mono
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56496
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.4f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56992
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.014745 seconds.
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003610 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 48.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.141 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001294 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.811 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1097 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.9 MB.
+System memory in use after: 57.0 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1540.
+Total: 2.904400 ms (FindLiveObjects: 0.313800 ms CreateObjectMapping: 0.068300 ms MarkObjects: 2.403700 ms  DeleteObjects: 0.116500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/Menu.unity
+  artifactKey: Guid(3080bd0ce9bcbb6428ae2aaabf1cd3ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Menu.unity using Guid(3080bd0ce9bcbb6428ae2aaabf1cd3ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f93b32ecf4b18b5a217003f6d8fed49') in 0.052111 seconds
+  Import took 0.080565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.423171 seconds.
+  path: Assets/Scenes/Restart Lose.unity
+  artifactKey: Guid(7349dc43c75b5d448a9f70826f8ee2f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Restart Lose.unity using Guid(7349dc43c75b5d448a9f70826f8ee2f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a23e07c08e49e281c7e7ea926afb9bf') in 0.014855 seconds
+  Import took 0.077949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.857150 seconds.
+  path: Assets/Scenes/WIN MENU.unity
+  artifactKey: Guid(57f467cb04a9be64585002806260305a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/WIN MENU.unity using Guid(57f467cb04a9be64585002806260305a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b68f5288de8cdcae95f889d9670ee16') in 0.085225 seconds
+  Import took 0.106141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.332589 seconds.
+  path: Assets/Scenes/Game.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Game.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e412cd123f9af051dba3d60db50d587') in 0.016970 seconds
+  Import took 0.070780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 679.660027 seconds.
+  path: Assets/BebasNeue-Regular.otf
+  artifactKey: Guid(c20e3c5aa18c0774694b605b0f68d1f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BebasNeue-Regular.otf using Guid(c20e3c5aa18c0774694b605b0f68d1f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '937e8d355942e056ec9a320a71213f5e') in 0.535718 seconds
+  Import took 0.633131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/NightinTokyoShadow.ttf
+  artifactKey: Guid(28f1ea796ab63d24a836c5ca9e9e5011) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NightinTokyoShadow.ttf using Guid(28f1ea796ab63d24a836c5ca9e9e5011) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '286b7b36678c30ed59286e1cffbf0e52') in 0.079589 seconds
+  Import took 0.090531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/BG.png
+  artifactKey: Guid(fc3b0db02dcb5c641a521243ccca60bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BG.png using Guid(fc3b0db02dcb5c641a521243ccca60bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '953be44c9fa51b7a7cf689c83914d5f8') in 0.194088 seconds
+  Import took 0.199266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/Happy Clover-Display.ttf
+  artifactKey: Guid(1f44ad181c6229f41b9e133848c56a23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Happy Clover-Display.ttf using Guid(1f44ad181c6229f41b9e133848c56a23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cf19befc34087fef5affc5a7a7d684d') in 0.067842 seconds
+  Import took 0.096973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.996731 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(0b41d55915daf6f41872bc03b4a85df1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(0b41d55915daf6f41872bc03b4a85df1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84186133ca440d3e6e8f6bf6cc8df67c') in 0.020521 seconds
+  Import took 0.195972 seconds .
+
