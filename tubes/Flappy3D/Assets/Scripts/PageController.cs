@@ -17,23 +17,23 @@ public class PageController : MonoBehaviour
         
     }
 
-    void mulaiGame(){
-        SceneManager.LoadScene("LoseMenu");
+    public void mulaiGame(){
+        SceneManager.LoadScene("Countdown");
     }
 
-    void optionGame(){
+    public void optionGame(){
 
     }
 
-    void exitGame(){
+    public void exitGame(){
         Application.Quit();
     }
 
-    void backToMenu(){
-
+    public void backToMenu(){
+        SceneManager.LoadScene("Menu");
     }
 
-    void nextLevel(){
-        
+    public void nextLevel(){
+
     }
 }

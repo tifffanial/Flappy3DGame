@@ -36,12 +36,14 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\EgyptMonsters\Scripts\DestroyMe.cs" />
      <Compile Include="Assets\EgyptMonsters\Scripts\DemoController.cs" />
+     <Compile Include="Assets\Scripts\GameController.cs" />
+     <Compile Include="Assets\Scripts\BirdController.cs" />
+     <Compile Include="Assets\EgyptMonsters\Scripts\DestroyMe.cs" />
      <Compile Include="Assets\EgyptMonsters\Scripts\DealDamageComponent.cs" />
      <Compile Include="Assets\Scripts\PageController.cs" />
-     <Compile Include="Assets\Scripts\BirdController.cs" />
-     <Compile Include="Assets\Scripts\GameController.cs" />
+     <Compile Include="Assets\Scripts\SoundController.cs" />
+     <Compile Include="Assets\Scripts\Countdown.cs" />
      <None Include="Assets\Fantasy Forest Environment Free Sample\StandardNoCulling.shader" />
      <None Include="Assets\EgyptMonsters\Demo\DemoAssets\Shaders\GrassAnimate.shader" />
      <None Include="Assets\EgyptMonsters\README.txt" />

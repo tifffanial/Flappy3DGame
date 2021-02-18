@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 3080bd0ce9bcbb6428ae2aaabf1cd3ab
+  - enabled: 1
+    path: Assets/Scenes/MainGame.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/LoseMenu.unity
+    guid: 7349dc43c75b5d448a9f70826f8ee2f5
+  - enabled: 1
+    path: Assets/Scenes/WinMenu.unity
+    guid: 57f467cb04a9be64585002806260305a
+  - enabled: 1
+    path: Assets/Scenes/Countdown.unity
+    guid: 448547d082c9bfd4989451e336df8abd
   m_configObjects: {}
